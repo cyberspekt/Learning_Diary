@@ -1,0 +1,11 @@
+Goals
+
+- Git and Github
+- Python (for cybersecurity)
+-Linux for cybersecurity
+- HTML, CSS and JS for cybersecurity
+- Hackers handbook
+-CTFs
+- Mobile hacking
+-Networking
+IGNOU Project
