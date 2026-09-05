@@ -1,0 +1,16 @@
+Open in git bash terminal
+commands:
+git init (track files)
+git status (gives status of files)
+
+4 main locations
+
+working dir
+staging area
+local repo
+remote repo
+
+
+.git folder contains file changes
+
+git snapshot
